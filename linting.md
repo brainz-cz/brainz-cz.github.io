@@ -32,5 +32,5 @@ This page links to all resources needed to set up linting and formatting in all 
 
 ### Other Projects
 Copy the following two files to your project's root directory:
-- [.eslintrc.js](/resources/.eslintrc.js)
-- [.prettierrc](/resources/.prettierrc)
+- [.eslintrc.js](https://github.com/brainz-cz/brainz-cz.github.io/blob/master/resources/.eslintrc.js)
+- [.prettierrc](https://github.com/brainz-cz/brainz-cz.github.io/blob/master/resources/.prettierrc)
