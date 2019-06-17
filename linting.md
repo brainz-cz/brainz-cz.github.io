@@ -31,4 +31,6 @@ This page links to all resources needed to set up linting and formatting in all 
 - Use the [ESLint and Prettier section](https://nuxtjs.org/guide/development-tools/#eslint-and-prettier) of the Nuxt documentation as the setup is identical for Vue projects.
 
 ### Other Projects
-- [TODO] Add config files
+Copy the following two files to your project's root directory:
+- [.eslintrc.js](/resources/.eslintrc.js)
+- [.prettierrc](/resources/.prettierrc)
