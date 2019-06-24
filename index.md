@@ -5,3 +5,5 @@
 [BEM Cheat Sheet](/bem)
 
 [Linting Guide](/linting)
+
+[Common Resources](/resources)
