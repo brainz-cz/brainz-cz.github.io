@@ -6,7 +6,7 @@ In most cases, there should be no need to alter Babel settings in `nuxt.config.j
 
 ### Polyfills
 
-While Babel transpiles ES6+ features for older browsers, you might still need to manually import some polyfills. Some of the usual ones are `Object.entries`, `Array.forEach or`IntersectionObserver`.
+While Babel transpiles ES6+ features for older browsers, you might still need to manually import some polyfills. Some of the usual ones are `Object.entries`, `Array.forEach` or `IntersectionObserver`.
 
 Watch your IE developer console for any errors such as `Object doesn't support property or method 'entries'` and find the corresponding polyfill on [polyfill.io](polyfill.io).
 
