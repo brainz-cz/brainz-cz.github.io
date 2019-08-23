@@ -1,4 +1,4 @@
-## BRAINZ Wiki
+# BRAINZ Wiki
 
 [❗️Nuxt.js (Vue.js) Rules](/nuxt-rules)
 
@@ -7,3 +7,5 @@
 [Linting Guide](/linting)
 
 [Common Resources](/resources)
+
+[Nuxt IE11 Guide](/nuxt-ie11)
