@@ -13,8 +13,8 @@ Watch your IE developer console for any errors such as `Object doesn't support p
 You can then add your polyfills to your `nuxt.config.js` like this:
 
 ```js
-const polyfillFeatures = ["IntersectionObserver", "Math.trunc", "Array.from"];
-const polyfillQuery = polyfillFeatures.join("%2C");
+const polyfillFeatures = ["IntersectionObserver", "Math.trunc", "Array.from"]
+const polyfillQuery = polyfillFeatures.join("%2C")
 
 export default {
   head: {
